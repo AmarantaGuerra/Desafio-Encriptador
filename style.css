@@ -1,0 +1,48 @@
+body {
+    background-color:  #d3eef7;
+   
+}
+
+.alura{
+    margin: 15px 30px;
+}
+
+#mensajeUsuario{
+    background-color:  #d3eef7;
+    border-color: #d3eef7;
+    margin-top: 25px;
+    margin-left: 200px;
+    text-transform: lowercase;
+
+}
+
+.resultado{
+    background-color: #FFFFFF;
+    width: 30%;
+    height: 100%;
+    position: relative;
+    left: 65%;
+    top:0%
+    
+}
+
+p2{
+    text-transform: lowercase;
+
+}
+
+.container__boton{
+
+}
+
+
+footer{
+    text-align: center;
+    padding:40px;
+}
+
+.copyright{
+    color:#FFFFFF;
+    font-size: 13px;
+    margin:20px;
+}
